@@ -1,0 +1,10 @@
+AllCops:
+  Exclude:
+    - '.git/**/*'
+    - 'bin/**/*'
+    - 'db/**/*'
+    - 'node_modules/**/*'
+    - 'public/**/*'
+    - 'script/**/*'
+    - 'tmp/**/*'
+    - 'vendor/**/*'
